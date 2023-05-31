@@ -1,2 +1,2 @@
 # go-bank
-a complete json rest api built from a tutorial with @anthonygg
+a complete bank api built with go
