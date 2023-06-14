@@ -1,2 +1,8 @@
 # go-bank
-a complete bank api built with go
+A complete api for managing a simple bank
+
+## Technologies
+- Go standard library
+- Gorilla/mux
+- PostgreSql database
+- JWT auth
